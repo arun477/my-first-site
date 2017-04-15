@@ -1,0 +1,88 @@
+
+/*body properties*/
+body{
+  background:#257c78;
+  margin:0;
+  padding:0;
+  background: -webkit-linear-gradient(-45deg, #257c78, #141E30);
+ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+ background: linear-gradient(-45deg, #257c78, #141E30);
+}
+.hed{
+  background-color:#222323;
+}
+.hed1{
+  font-family: 'Cinzel', serif;
+}
+.hed2{
+  font-family: 'Gloria Hallelujah', cursive;
+  color:white;
+}
+.sub{
+  font-family: 'Gloria Hallelujah', cursive;
+  color:white;
+  opacity: 0.7;
+  line-height:250%;
+}
+.content{
+  background: -webkit-linear-gradient(-45deg, #257c78, #141E30);
+
+  margin:0;
+}
+.lefcol{
+  padding:0;
+}
+p{
+  color:white;
+  font-family: 'Catamaran', sans-serif;
+  line-height:150%;
+  text-align:justify;
+}
+#cool{
+  border-left:normal;
+  border-color:white;
+}
+.footer{
+  background: -webkit-linear-gradient(-45deg, brown, #141E30);
+}
+.fa{
+  padding:20px;
+  font-size:30px;
+  width:50px;
+  text-align:center;
+  text-decoration:none;
+}
+.fa:hover{
+  opacity:0.7;
+}
+.fa-facebook{
+  background:#3b5998;
+  color:white;
+  border-radius:50%;
+}
+.fa-twitter{
+  background:#55acee;
+  color:white;
+  border-radius:50%;
+}
+.fa-youtube{
+  background:#c4302b;
+  color:white;
+  border-radius:50%;
+}
+.fa-instagram{
+  background:#f09433;
+  background:-webkit-linear-gradient(45deg,#f09433 0%,#e6683c25%,#dc2743 50%,#cc2366 75%,#cc2366 75%,#bc1888 100%);
+  color:white;
+  border-radius:50%;
+}
+.fa-pinterest{
+  background:#c92228;
+  color:white;
+  border-radius:50%;
+}
+.fa-github{
+  background:black;
+  color:white;
+  border-radius:50%;
+}
